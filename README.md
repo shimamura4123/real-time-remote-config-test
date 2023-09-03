@@ -1,16 +1,14 @@
 # real_time_remote_config
 
-A new Flutter project.
+リアルタイムRemoteConfigがどれぐらいリアルタイムなのか、どのタイミングで最新の情報を取得できるようになるかを検証するモバイルアプリ。
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Flutterのインストール   
+   https://docs.flutter.dev/get-started/install
+3. FirebaseCLIのインストール  
+   https://firebase.google.com/docs/cli?hl=ja
+5. Firebaseの初期化  
+   https://firebase.flutter.dev/docs/cli/  
+   Firebase上で任意のプロジェクトを作成してもらい、`flutterfire configure`でいい感じに紐づけてください。
+   

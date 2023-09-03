@@ -11,4 +11,5 @@
 5. Firebaseの初期化  
    https://firebase.flutter.dev/docs/cli/  
    Firebase上で任意のプロジェクトを作成してもらい、`flutterfire configure`でいい感じに紐づけてください。
+4. `flutter pub get`からの`flutter run`
    
